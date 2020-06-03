@@ -57,6 +57,7 @@
             this.ClientSize = new System.Drawing.Size(484, 361);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.richTextBox1);
+            this.MaximizeBox = false;
             this.Name = "AddWindow";
             this.Text = "Add";
             this.ResumeLayout(false);

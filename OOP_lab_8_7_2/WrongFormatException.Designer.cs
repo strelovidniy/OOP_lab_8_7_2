@@ -59,6 +59,7 @@
             this.ClientSize = new System.Drawing.Size(312, 101);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
+            this.MaximizeBox = false;
             this.Name = "WrongFormatException";
             this.Text = "Wrong Format Exception";
             this.ResumeLayout(false);

@@ -60,6 +60,7 @@
             this.ClientSize = new System.Drawing.Size(484, 361);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.checkedListBox1);
+            this.MaximizeBox = false;
             this.Name = "RemoveWindow";
             this.Text = "Remove";
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();

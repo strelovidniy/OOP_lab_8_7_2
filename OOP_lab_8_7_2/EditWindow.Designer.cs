@@ -79,6 +79,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.comboBox1);
+            this.MaximizeBox = false;
             this.Name = "EditWindow";
             this.Text = "Edit";
             this.ResumeLayout(false);
